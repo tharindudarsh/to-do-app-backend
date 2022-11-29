@@ -5,7 +5,7 @@ CREATE TABLE user {
 
     };
 
-CREATE TABLE to-do-item {
+CREATE TABLE toDoItem {
    id VARCHAR(50),
     user_Name VARCHAR(50) NOT NULL,
     description VARCHAR(100) NOT NULL,
